@@ -18,10 +18,15 @@ The folder contains the version numbers as used by Docker for Windows, see [Rele
 
 ### 2.1.0.0 (2019-08-01)
 Docker: 19.03.1
+
 Compose: 1.24.1
+
 Kubectl: v1.14.3
+
 Notary: 0.6.1
+
 Credential Helpers: 0.6.3
+
 Machine: 0.16.1
 
 ### 2.0.0.2 (2019-01-16)
