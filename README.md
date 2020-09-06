@@ -38,6 +38,10 @@ See [all releases](https://github.com/kubernetes/kubernetes/releases)
 ### Minikube CLI
 | Minikube | minikube.exe | Server-Side Kubernetes / Docker-Deamon |
 | ---- | --- | --- |
+| [1.12.3](https://github.com/kubernetes/minikube/releases/tag/v1.12.3) (2020-08-12) | [1.12.3](https://github.com/kubernetes/minikube/releases/download/v1.12.3/minikube-windows-amd64.exe) | v1.18.3 / 19.03.12 |
+| [1.11.0](https://github.com/kubernetes/minikube/releases/tag/v1.11.0) (2020-05-29) | [1.11.0](https://github.com/kubernetes/minikube/releases/download/v1.11.0/minikube-windows-amd64.exe) | v1.18.3 / 19.03.8 |
+| [1.10.1](https://github.com/kubernetes/minikube/releases/tag/v1.10.1) (2020-05-13) | [1.10.1](https://github.com/kubernetes/minikube/releases/download/v1.10.1/minikube-windows-amd64.exe) | v1.18.2 / 19.03.8 |
+| [1.9.2](https://github.com/kubernetes/minikube/releases/tag/v1.9.2) (2020-04-04) | [1.9.2](https://github.com/kubernetes/minikube/releases/download/v1.9.2/minikube-windows-amd64.exe) | v1.18.0 / 19.03.8 |
 | [1.8.2](https://github.com/kubernetes/minikube/releases/tag/v1.8.2) (2020-03-13) | [1.8.2](https://github.com/kubernetes/minikube/releases/download/v1.8.2/minikube-windows-amd64.exe) | v1.17.3 / 19.03.6 |
 | [1.7.3](https://github.com/kubernetes/minikube/releases/tag/v1.7.3) (2020-02-20) | [1.7.3](https://github.com/kubernetes/minikube/releases/download/v1.7.3/minikube-windows-amd64.exe) | v1.17.3 / 19.03.6 |
 | [1.6.2](https://github.com/kubernetes/minikube/releases/tag/v1.6.2) (2019-12-20) | [1.6.2](https://github.com/kubernetes/minikube/releases/download/v1.6.2/minikube-windows-amd64.exe) | v1.17.0 / 19.03.5 |
