@@ -9,8 +9,6 @@ Where possible, the required tools are linked from there original source. But so
 
 | Docker-for-Windows | All CLIs | docker.exe | docker-compose.exe |
 | ---- | --- | --- | --- |
-| 4.1.1 (2021-10-12) | [4.1.1](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-4.1.1/docker-cli-4.1.1.zip) | [20.10.8](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-4.1.1/docker.exe) | [1.29.2](https://github.com/docker/compose/releases/tag/1.29.2) |
-| 4.0.0 (2021-08-31) | [4.0.0](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-4.0.0/docker-cli-4.0.0.zip) | [20.10.8](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-4.0.0/docker.exe) | [1.29.2](https://github.com/docker/compose/releases/tag/1.29.2) |
 | 2.3.0.4 (2020-07-27) | [2.3.0.4](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-2.3.0.4/docker-cli-2.3.0.4.zip) | [19.03.12](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-2.3.0.4/docker.exe) | [1.26.2](https://github.com/docker/compose/releases/tag/1.26.2) |
 | 2.3.0.3 (2020-05-27) | [2.3.0.3](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-2.3.0.3/docker-cli-2.3.0.3.zip) | [19.03.8](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-2.3.0.3/docker.exe) | [1.25.5](https://github.com/docker/compose/releases/tag/1.25.5) |
 | 2.2.0.4 (2020-03-13) | [2.2.0.4](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-2.2.0.4/docker-cli-2.2.0.4.zip) | [19.03.8](https://github.com/purej/docker-windows-cli/raw/master/docker-for-windows-2.2.0.4/docker.exe) | [1.25.4](https://github.com/docker/compose/releases/tag/1.25.4) |
